@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx parcel build index.html --public-url .",
+    "build": "npx parcel build index.html --public-url https://maguroguro.github.io/lucazini.it/",
     "deploy": "npm run build && gh-pages -d dist"
   },
   "author": "",
